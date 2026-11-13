@@ -1,14 +1,16 @@
-# Welcome to your Lovable project
+# Reality Network India
+
+I want you to build a reality network India site like this. The screenshots I have attached are just for the flow purpose. This is the whole flow and content purpose. This is the flow and content will be. I want you to make it more lucrative. Like right now it looks very AI-ish and very... bland. I want you to make it look better. Yes, let's start from there and then we'll move on.
 
 This project was built with [Lovable](https://lovable.dev).
 
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/cccb137d-a982-49d1-b568-8eb36fd71f07).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +22,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
