@@ -28,3 +28,7 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+## Project decisions
+
+- Keep the supplied property-to-enquiry journey as one continuous, anchor-navigable home page, because the reference screenshots present it as one complete scroll experience.
